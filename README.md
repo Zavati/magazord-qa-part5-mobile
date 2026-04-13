@@ -48,7 +48,7 @@ Além disso, essa escolha permite demonstrar uma estratégia mais próxima de um
 - git clone <url-do-repositorio>
 - cd magazord-qa-part5-mobile
 ### 2. Inicializar o projeto Node.js
-- npm init -y
+- npm install
 ### 3. Instalar dependências principais
 - npm install webdriverio
 - npm install appium --save-dev
