@@ -52,8 +52,10 @@ Além disso, essa escolha permite demonstrar uma estratégia mais próxima de um
 ### 3. Instalar dependências principais
 - npm install webdriverio
 - npm install appium --save-dev
+
 ### 4. Instalar o Appium globalmente, se necessário
 - npm install -g appium
+- appium driver install uiautomator2@4
 ### 5. Validar instalação do Appium
 - appium -v
 ### 6. Configurar ambiente Android/iOS
